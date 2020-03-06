@@ -29,7 +29,7 @@ Usage
 Create a new Heroku app, and build the app:
 
 ```
-$ git clone https://github.com/mietek/instant-ipython
+$ git clone https://github.com/alance123/instant-ipython.git
 $ cd instant-ipython
 $ heroku create
 $ git push heroku master
