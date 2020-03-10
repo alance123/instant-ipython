@@ -25,3 +25,5 @@ keras
 torch
 torchvision
 pandas
+seaborn
+scipy
