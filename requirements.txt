@@ -27,3 +27,4 @@ torchvision
 pandas
 seaborn
 scipy
+setuptools==41.0.0
