@@ -24,3 +24,4 @@ scikit-learn
 keras
 torch
 torchvision
+pandas
