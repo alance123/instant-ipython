@@ -4,8 +4,7 @@ Pygments==2.0.2
 backports.ssl-match-hostname==3.4.0.2
 certifi==2015.4.28
 gnureadline==6.3.3
-ipython==5.1.0
-notebook
+ipython==4.1.0
 jsonschema==2.4.0
 matplotlib==1.4.3
 mistune==0.5.1
@@ -22,4 +21,3 @@ terminado==0.5
 tornado==4.1
 scikit-learn
 scipy
-pyzmq
